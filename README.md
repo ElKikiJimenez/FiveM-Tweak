@@ -1,1 +1,1 @@
-**spanish:** Ejecuta este archivo para arrancar FiveM, finaliza tareas absurdas de Microsoft, servicios, y mas optimizaciones, pruebalo. **english:** Run this file to boot FiveM, finish absurd Microsoft tasks, services, and more optimizations, try it.
+**spanish:** Ejecuta este archivo para arrancar FiveM, finaliza tareas absurdas de Microsoft, servicios, y mas optimizaciones, pruebalo.                     **english:** Run this file to boot FiveM, finish absurd Microsoft tasks, services, and more optimizations, try it.
